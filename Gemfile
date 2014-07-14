@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 ruby '2.0.0'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
+
 gem 'rails', '4.1.1'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.3'
@@ -20,6 +21,9 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 # bundle exec rake doc:rails generates the API under doc/api.
 gem "bootstrap-sass"
+
+gem 'devise'
+
 group :doc do
 	gem 'sdoc', '~> 0.4.0', require:false
 end
