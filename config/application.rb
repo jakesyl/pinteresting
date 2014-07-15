@@ -33,6 +33,7 @@ module Omrails
     # config.i18n.load_path += Dir[Rails.root.join('my', 'locales', '*.{rb,yml}').to_s]
     # config.i18n.default_locale = :de
 <<<<<<< HEAD
+<<<<<<< HEAD
 
     # Configure the default encoding used in templates for Ruby 1.9.
     config.encoding = "utf-8"
@@ -59,6 +60,8 @@ module Omrails
 
     # Version of your assets, change this if you want to expire all your assets
     config.assets.version = '1.0'
+=======
+>>>>>>> parent of 02d173c... recommended
 =======
 >>>>>>> parent of 02d173c... recommended
   end
