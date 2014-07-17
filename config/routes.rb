@@ -3,9 +3,6 @@ root "pages#home"
 
 #getting somenew pages
 get "about" => "pages#about"
-
-config.action_mailer.default_url_options = { host: 'localhost:3000' }
-
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
