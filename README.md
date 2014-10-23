@@ -1,3 +1,6 @@
-== README
+# One Month Rails
 
-[![Build Status](https://travis-ci.org/jakesyl/pinteresting.svg?branch=master)](https://travis-ci.org/jakesyl/pinteresting)
+This is the sample application for
+[*One Month Rails: Teach Yourself to Code*](http://onemonthrails.com)
+
+by [Mattan Griffel](http://mattangriffel.com)
